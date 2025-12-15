@@ -46,7 +46,7 @@ In short, you can think of Copilot like a very specialized coworker. To be effec
       ```python
       # Validate student is not already signed up
       ```
-
+ 
    1. Press `Tab` to accept Copilot's suggestion and convert the shadow text to code.
 
    <details>
